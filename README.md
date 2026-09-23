@@ -4,7 +4,7 @@ This repository contains excerpts from my research work on the concept of a ball
 The goal is to spark interest within the technical community and showcase key ideas.
 
 ## Contents
-- Text excerpts (docs/)
+- Text excerpts
 - Conceptual modeling notes
 - Preliminary calculations
 
