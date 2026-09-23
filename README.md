@@ -1,12 +1,19 @@
+![Cover](Boz-375-cover.jpg)
+
 # Ballistic Interceptor Concept
 
-This repository contains excerpts from my research work on the concept of a ballistic interceptor.  
-The goal is to spark interest within the technical community and showcase key ideas.
+## Abstract
+This concept proposes an open-source, structured roadmap for designing and modeling a radically new ballistic interceptor.  
+It challenges existing monopolies in missile defense and demonstrates how Sensor Fusion, ITAR-Free architecture, and FPGA resilience can redefine the future of interception systems.
 
 ## Contents
 - Text excerpts
 - Conceptual modeling notes
 - Preliminary calculations
+- See [CONTENT.md](CONTENT.md) for the full table of contents.
+
+## Concept
+See [CONCEPT.md](CONCEPT.md) for the full description of the ballistic interceptor idea.
 
 ## Important Notes
 - This is not finished code and not a complete project.
