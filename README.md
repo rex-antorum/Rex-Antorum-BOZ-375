@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ballistic Interceptor Concept
 
-<!--
-**rex-antorum/Rex-Antorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains excerpts from my research work on the concept of a ballistic interceptor.  
+The goal is to spark interest within the technical community and showcase key ideas.
 
-Here are some ideas to get you started:
+## Contents
+- Text excerpts (docs/)
+- Conceptual modeling notes
+- Preliminary calculations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Important Notes
+- This is not finished code and not a complete project.
+- Materials are shared for research and discussion purposes.
+- Any commercial use requires direct involvement of the author.
+
+## License
+No License
+
