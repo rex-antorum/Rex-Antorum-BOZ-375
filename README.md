@@ -1,4 +1,4 @@
-![Cover](Boz-375!.jpg)
+![Cover](boz-375!.jpg)
 
 # Ballistic Interceptor Concept
 
