@@ -10,7 +10,7 @@ It challenges existing monopolies in missile defense and demonstrates how Sensor
 - Text excerpts
 - Conceptual modeling notes
 - Preliminary calculations
-- See [CONTENT.md](CONTENT.md) for the full table of contents.
+- See [CONTENT.md](CONTENT.md) for the full table of contents in English and Ukrainian.
 
 ## Concept
 See [CONCEPT.md](CONCEPT.md) for the full description of the ballistic interceptor idea.
