@@ -8,6 +8,7 @@ It challenges existing monopolies in missile defense and demonstrates how Sensor
 
 ## Contents
 - Text excerpts
+- See [ADVANTAGES.md](ADVANTAGES.md) for comparison of key advantages: Rex Antorum BOZ-375 vs. PAC-3 MSE.
 - Conceptual modeling notes
 - Preliminary calculations
 - See [CONTENT.md](CONTENT.md) for the full table of contents in English and Ukrainian.
