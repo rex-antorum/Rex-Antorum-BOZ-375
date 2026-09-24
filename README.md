@@ -16,13 +16,13 @@ It challenges existing monopolies in missile defense and demonstrates how Sensor
 ## Concept
 See [CONCEPT.md](CONCEPT.md) for the description of the ballistic interceptor idea.
 
+## Capital Requirements
+- See [USE_OF_FUNDS.md](USE_OF_FUNDS.md) for initial investment allocation.
+
 ## Important Notes
 - This is not finished code and not a complete project.
 - Materials are shared for research and discussion purposes.
 - Any commercial use requires direct involvement of the author.
-
-## Capital Requirements
-- See [USE_OF_FUNDS.md](USE_OF_FUNDS.md) for initial investment allocation.
 
 ## License
 No License
