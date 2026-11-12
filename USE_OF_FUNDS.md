@@ -30,6 +30,7 @@ Phase 0: Foundation, Prototyping & Industrial Validation Total Capital Requireme
 
 **Total required funding for Phase 0: $12M**
 
+---
 
 Phase 1 (Years 1-3): Commercial Manufacturing & Export Market Entry, annual budget
 
@@ -50,9 +51,12 @@ Phase 1 (Years 1-3): Commercial Manufacturing & Export Market Entry, annual budg
 **Total Annual Budget for Phase 1** — $774M/year
 **Total Phase 1 Requirement** — $2.32B
 
+---
 
 Phase 2 (Years 4-7): Global Expansion & Manufacturing Scale-Up
 
+---
+
 Phase 3 (Years 8+): International Production Network & Strategic Partnerships
 
-
+---
