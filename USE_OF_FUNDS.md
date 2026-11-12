@@ -55,7 +55,7 @@ Phase 1 (Years 1-3): Commercial Manufacturing & Export Market Entry, annual budg
 
 ---
 
-**Total Phase 0 & Phase 1 Requirement** — $2.334B
+**Total Phase 0 & Phase 1 Requirement** — $2.334B / £1.760B / €2.105B
 
 ---
 
