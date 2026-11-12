@@ -2,6 +2,7 @@
 
 This section outlines the planned allocation of capital required for the Rex Antorum Boz‑375 Ballistic Interceptor project.
 
+---
 
 Phase 0: Foundation, Prototyping & Industrial Validation Total Capital Requirement: $12M
 
