@@ -50,7 +50,12 @@ Phase 1 (Years 1-3): Commercial Manufacturing & Export Market Entry, annual budg
 ---
 
 **Total Annual Budget for Phase 1** — $774M/year
+
 **Total Phase 1 Requirement** — $2.32B
+
+---
+
+**Total Phase 0 & Phase 1 Requirement** — $2.334B
 
 ---
 
